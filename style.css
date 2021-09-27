@@ -1,0 +1,71 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+}
+body-.box{
+    background-color: white;
+}
+
+.box{
+    border: 2px solid black;
+    text-align: center;
+    margin-top: 19rem;
+    width:20rem;
+    margin-bottom: 100px;
+    background-color: yellowgreen;
+
+}
+
+.fas{
+    margin-bottom: 70px;
+    margin-top:53px;
+}
+
+waves{
+    animation-fill-mode: initial;
+
+    float: left;
+    width:325px;
+    height:200px;
+    display:  block;
+    background-color: aqua;
+    animation-name:one;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    border-radius: 150px;
+    animation-timing-function: ease-in;
+
+
+}
+
+.wave-one{
+
+}
+
+.wave0two
+#weather{
+    background-color: rgb(122, 224, 224);
+
+}
+
+/*@keyframes one{
+    from{
+        transform: rotate(0deg);
+    }
+    to{
+        transform: rotate(360deg);
+    }
+}
+
+.info{
+    background-color: aqua;
+}*/
+
